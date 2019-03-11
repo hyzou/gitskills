@@ -3,3 +3,4 @@ add 1 more line
 add 1 more line again
 git has a mutable index called stage
 push to github
+Creating a new branch is quick & simple.
